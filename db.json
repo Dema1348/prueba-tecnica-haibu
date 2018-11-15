@@ -3,10 +3,10 @@
     {
       "id": 1,
       "nombre": "Omar",
-
       "apellido": "Trapaga",
       "telefono": 56221984968,
       "rut": "21984968-0",
+      "fechaNacimiento":"12/05/1982",
       "direccion": {
         "calle": "Av. Matta",
         "numero": 143,
@@ -65,6 +65,7 @@
       "apellido": "Armesto",
       "telefono": 56912131233,
       "rut": "12131233-1",
+      "fechaNacimiento":"12/09/1992",
       "direccion": {
         "calle": "Pasaje el manzano",
         "numero": 1212,
